@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @apostille-blockchain
+- 👋 Hi, I’m Apostille, a blockcahin notarization prototocl. 
 - 👀 I’m interested in blockchain, IPFS, DID, zero-knowledge proofs, and non-fungible assets, and blockchain notarizations. 
 - 🌱 I’m currently learning about all the above. 
 - 💞️ I’m looking to collaborate on all the above
