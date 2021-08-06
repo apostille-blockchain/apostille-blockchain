@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Apostille, a blockcahin notarization prototocol. 
-- 👀 I’m interested in blockchain, IPFS, DID, zero-knowledge proofs, and non-fungible assets, and blockchain notarizations. 
+- 👀 I’m interested in blockchain, IPFS, DID, zero-knowledge proofs, non-fungible assets, and blockchain notarizations. 
 - 🌱 I’m currently learning about all the above. 
 - 💞️ I’m looking to collaborate on all the above
 - 📫 You can contact me on Telegram @jabo38
